@@ -1,10 +1,10 @@
-# Random-Alphanumeric-ID
-Get Random Alphanumeric ID
+# Random-Alphanumeric-String
+Get Random Alphanumeric String
 <br><br>
 Usage:
 <br><br>
-//Get Random Alphanumeric ID
+//Get Alphanumeric string with 6 random characters
 <br>
 $id = get_alphanum_id(6);
 <br><br>
-Result: string containing 6 random alphanumeric characters, ex: '2Mjlh5'
+Result: Alphanumeric string containing 6 random characters, ex: '2Mjlh5'
